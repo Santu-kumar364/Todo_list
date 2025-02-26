@@ -1,6 +1,6 @@
 # Todo_list
 
-### **Frontend (React) Overview**  
+### **Frontend (React)**  
 
 ✅ **State Management:**  
 - Uses `useState` to manage **user input** and **list of tasks**.  
@@ -16,7 +16,7 @@
 
 ---
 
-### **Backend (Spring Boot) Overview**  
+### **Backend (Spring Boot)**  
 
 ✅ **Controller-Service Architecture:**  
 - Separates API logic (`TodoController`) from business logic (`TodoService`).  
