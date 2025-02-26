@@ -1,9 +1,4 @@
 # Todo_list
-### **Summary of Your Full-Stack Todo Application**  
-
-Your **Todo App** is built using **React for the frontend** and **Spring Boot for the backend**, allowing users to **create, fetch, and delete tasks** seamlessly.  
-
----
 
 ### **Frontend (React) Overview**  
 
