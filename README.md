@@ -3,7 +3,7 @@
 ### **Frontend (React) Overview**  
 
 ✅ **State Management:**  
-- Uses `useState` to manage **user input (`title`)** and **list of tasks (`todos`)**.  
+- Uses `useState` to manage **user input** and **list of tasks**.  
 
 ✅ **API Integration with Axios:**  
 - Fetches, adds, and deletes todos from the backend.  
