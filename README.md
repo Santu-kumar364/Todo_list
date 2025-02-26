@@ -26,5 +26,3 @@
 - Stores and retrieves todos efficiently.  
 - Handles user actions like adding and deleting tasks.  
 
----
- 
